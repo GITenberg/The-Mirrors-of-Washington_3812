@@ -1,0 +1,38 @@
+_repo: The-Mirrors-of-Washington_3812
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kirby, John
+    gutenberg_agent_id: '5795'
+    url: http://www.gutenberg.org/2009/agents/5795
+creator:
+  author:
+    agent_name: Gilbert, Clinton W. (Clinton Wallace)
+    alias: Gilbert, Clinton Wallace
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '1314'
+    url: http://www.gutenberg.org/2009/agents/1314
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Biography'
+- !lcsh 'Statesmen -- United States'
+- !lcsh 'United States -- Politics and government -- 20th century'
+- !lcc 'E740'
+- GITenberg
+tableOfContents: Harding, Warren G. -- Wilson, Woodrow -- Harvey, George (Brinton
+  McClellan) -- Hughes, Charles Evans -- House, Edward Mandell -- Hoover, Herbert
+  Clark -- Lodge, Henry Cabot -- Baruch, Bernard Mannes -- Root, Elihu -- Johnson,
+  Hiram Warren -- Knox, Philander Chase -- Lansing, Robert -- Penrose, Boies -- Borah,
+  William Edgar.
+title: The Mirrors of Washington
+url: http://www.gutenberg.org/ebooks/3812
