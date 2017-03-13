@@ -1,10 +1,13 @@
 _repo: The-Mirrors-of-Washington_3812
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Kirby, John
     gutenberg_agent_id: '5795'
     url: http://www.gutenberg.org/2009/agents/5795
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gilbert, Clinton W. (Clinton Wallace)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '1314'
     url: http://www.gutenberg.org/2009/agents/1314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3812#The-Mirrors-of-Washington
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
